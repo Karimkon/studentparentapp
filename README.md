@@ -1,2 +1,0 @@
-# studentparentapp
-Smart Schools Hub
